@@ -8,84 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Dec 2022 02:10:03 +0800</lastBuildDate><atom:link href="http://fourus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>sss</title>
-      <link>http://fourus.github.io/posts/test-update/</link>
+      <title>戒烟记</title>
+      <link>http://fourus.github.io/posts/quitsmoking/</link>
       <pubDate>Tue, 27 Dec 2022 02:10:03 +0800</pubDate>
       
-      <guid>http://fourus.github.io/posts/test-update/</guid>
-      <description>thes work</description>
-    </item>
-    
-    <item>
-      <title>Day333</title>
-      <link>http://fourus.github.io/posts/day333/</link>
-      <pubDate>Tue, 27 Dec 2022 00:54:03 +0800</pubDate>
-      
-      <guid>http://fourus.github.io/posts/day333/</guid>
-      <description>No Smoking Day 18222sfasd</description>
-    </item>
-    
-    <item>
-      <title>Day18</title>
-      <link>http://fourus.github.io/posts/day19/</link>
-      <pubDate>Tue, 27 Dec 2022 00:14:03 +0800</pubDate>
-      
-      <guid>http://fourus.github.io/posts/day19/</guid>
-      <description>No Smoking Day 19</description>
-    </item>
-    
-    <item>
-      <title>Day18</title>
-      <link>http://fourus.github.io/posts/day18/</link>
-      <pubDate>Mon, 26 Dec 2022 19:54:03 +0800</pubDate>
-      
-      <guid>http://fourus.github.io/posts/day18/</guid>
-      <description>No Smoking Day 18</description>
-    </item>
-    
-    <item>
-      <title>sss</title>
-      <link>http://fourus.github.io/posts/smoking123/</link>
-      <pubDate>Mon, 26 Dec 2022 19:10:03 +0800</pubDate>
-      
-      <guid>http://fourus.github.io/posts/smoking123/</guid>
-      <description>hello world33333</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>http://fourus.github.io/posts/hello2/</link>
-      <pubDate>Mon, 26 Dec 2022 16:10:03 +0800</pubDate>
-      
-      <guid>http://fourus.github.io/posts/hello2/</guid>
-      <description>hello world2</description>
-    </item>
-    
-    <item>
-      <title>Hello3</title>
-      <link>http://fourus.github.io/posts/life1/</link>
-      <pubDate>Mon, 26 Dec 2022 15:10:03 +0800</pubDate>
-      
-      <guid>http://fourus.github.io/posts/life1/</guid>
-      <description>hello world33333</description>
-    </item>
-    
-    <item>
-      <title>Day17</title>
-      <link>http://fourus.github.io/posts/day17/</link>
-      <pubDate>Sun, 25 Dec 2022 19:54:03 +0800</pubDate>
-      
-      <guid>http://fourus.github.io/posts/day17/</guid>
-      <description>No Smoking Day 17</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>http://fourus.github.io/posts/hello/</link>
-      <pubDate>Sun, 25 Dec 2022 16:02:03 +0800</pubDate>
-      
-      <guid>http://fourus.github.io/posts/hello/</guid>
-      <description>hello world!</description>
+      <guid>http://fourus.github.io/posts/quitsmoking/</guid>
+      <description>今天戒烟第18天，也是用HUGO搭建blog到第一天。记录下。</description>
     </item>
     
   </channel>
