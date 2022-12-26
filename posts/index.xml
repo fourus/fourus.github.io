@@ -6,7 +6,16 @@
     <description>Recent content in Posts on usus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 00:54:03 +0800</lastBuildDate><atom:link href="http://fourus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 02:10:03 +0800</lastBuildDate><atom:link href="http://fourus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sss</title>
+      <link>http://fourus.github.io/posts/test-update/</link>
+      <pubDate>Tue, 27 Dec 2022 02:10:03 +0800</pubDate>
+      
+      <guid>http://fourus.github.io/posts/test-update/</guid>
+      <description>thes work</description>
+    </item>
+    
     <item>
       <title>Day333</title>
       <link>http://fourus.github.io/posts/day333/</link>
