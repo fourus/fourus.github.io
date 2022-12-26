@@ -19,5 +19,11 @@
   </url><url>
     <loc>http://example.org/posts/hello/</loc>
     <lastmod>2022-12-26T16:02:03+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/life1/</loc>
+    <lastmod>2022-12-26T15:10:03+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/life/</loc>
+    <lastmod>2022-12-26T15:10:03+08:00</lastmod>
   </url>
 </urlset>
