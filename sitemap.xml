@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://fourus.github.io/categories/</loc>
     <lastmod>2022-12-26T19:54:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/day18/</loc>
+    <loc>http://fourus.github.io/posts/day18/</loc>
     <lastmod>2022-12-26T19:54:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/life/</loc>
+    <loc>http://fourus.github.io/categories/life/</loc>
     <lastmod>2022-12-26T19:54:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://fourus.github.io/posts/</loc>
     <lastmod>2022-12-26T19:54:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://fourus.github.io/</loc>
     <lastmod>2022-12-26T19:54:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/book/</loc>
+    <loc>http://fourus.github.io/categories/book/</loc>
     <lastmod>2022-12-26T16:10:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/hello2/</loc>
+    <loc>http://fourus.github.io/posts/hello2/</loc>
     <lastmod>2022-12-26T16:10:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/life1/</loc>
+    <loc>http://fourus.github.io/posts/life1/</loc>
     <lastmod>2022-12-26T15:10:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/day17/</loc>
+    <loc>http://fourus.github.io/posts/day17/</loc>
     <lastmod>2022-12-25T19:54:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/hello/</loc>
+    <loc>http://fourus.github.io/posts/hello/</loc>
     <lastmod>2022-12-25T16:02:03+08:00</lastmod>
   </url>
 </urlset>

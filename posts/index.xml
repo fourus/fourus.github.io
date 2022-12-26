@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on usus</title>
-    <link>http://example.org/posts/</link>
+    <link>http://fourus.github.io/posts/</link>
     <description>Recent content in Posts on usus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 19:54:03 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 19:54:03 +0800</lastBuildDate><atom:link href="http://fourus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day18</title>
-      <link>http://example.org/posts/day18/</link>
+      <link>http://fourus.github.io/posts/day18/</link>
       <pubDate>Mon, 26 Dec 2022 19:54:03 +0800</pubDate>
       
-      <guid>http://example.org/posts/day18/</guid>
+      <guid>http://fourus.github.io/posts/day18/</guid>
       <description>No Smoking Day 18</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>http://example.org/posts/hello2/</link>
+      <link>http://fourus.github.io/posts/hello2/</link>
       <pubDate>Mon, 26 Dec 2022 16:10:03 +0800</pubDate>
       
-      <guid>http://example.org/posts/hello2/</guid>
+      <guid>http://fourus.github.io/posts/hello2/</guid>
       <description>hello world2</description>
     </item>
     
     <item>
       <title>Hello3</title>
-      <link>http://example.org/posts/life1/</link>
+      <link>http://fourus.github.io/posts/life1/</link>
       <pubDate>Mon, 26 Dec 2022 15:10:03 +0800</pubDate>
       
-      <guid>http://example.org/posts/life1/</guid>
+      <guid>http://fourus.github.io/posts/life1/</guid>
       <description>hello world33333</description>
     </item>
     
     <item>
       <title>Day17</title>
-      <link>http://example.org/posts/day17/</link>
+      <link>http://fourus.github.io/posts/day17/</link>
       <pubDate>Sun, 25 Dec 2022 19:54:03 +0800</pubDate>
       
-      <guid>http://example.org/posts/day17/</guid>
+      <guid>http://fourus.github.io/posts/day17/</guid>
       <description>No Smoking Day 17</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>http://example.org/posts/hello/</link>
+      <link>http://fourus.github.io/posts/hello/</link>
       <pubDate>Sun, 25 Dec 2022 16:02:03 +0800</pubDate>
       
-      <guid>http://example.org/posts/hello/</guid>
+      <guid>http://fourus.github.io/posts/hello/</guid>
       <description>hello world!</description>
     </item>
     
