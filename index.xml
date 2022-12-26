@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Dec 2022 02:10:03 +0800</lastBuildDate><atom:link href="http://fourus.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>戒烟记</title>
-      <link>http://fourus.github.io/posts/quitsmoking/</link>
+      <title>Hello World</title>
+      <link>http://fourus.github.io/posts/hello-world/</link>
       <pubDate>Tue, 27 Dec 2022 02:10:03 +0800</pubDate>
       
-      <guid>http://fourus.github.io/posts/quitsmoking/</guid>
-      <description>今天戒烟第18天，也是用HUGO搭建blog到第一天。记录下。</description>
+      <guid>http://fourus.github.io/posts/hello-world/</guid>
+      <description>折腾一天。有空写个小白攻略！</description>
     </item>
     
   </channel>
