@@ -70,5 +70,14 @@
       <description>hello world!</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://fourus.github.io/posts/day333/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fourus.github.io/posts/day333/</guid>
+      <description>title: &amp;ldquo;Day333&amp;rdquo; date: 2022-12-27T00:54:03+08:00 draft: false categories: [&amp;ldquo;life&amp;rdquo;] No Smoking Day 18222</description>
+    </item>
+    
   </channel>
 </rss>
