@@ -6,14 +6,26 @@
     <description>Recent content in Posts on usus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 02:10:03 +0800</lastBuildDate><atom:link href="https://usus.us/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:25:03 +0800</lastBuildDate><atom:link href="https://usus.us/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HUGO&#43;github搭建</title>
+      <link>https://usus.us/posts/deploy-hugo-blog/</link>
+      <pubDate>Tue, 27 Dec 2022 17:25:03 +0800</pubDate>
+      
+      <guid>https://usus.us/posts/deploy-hugo-blog/</guid>
+      <description>第一次PUSH：
+cd public git init git status git add . git commit -m “1st” git branch -M main git remote add origin https://github.com/fourus/fourus.github.io.git git push -u origin main 上传文章PUSH：
+git status git add . git commit -m “png” git push -u origin main 遇到问题：
+KevindeMBP:public kevinfang$ git status 位于分支 main 您的分支领先 &amp;lsquo;origin/main&amp;rsquo; 共 1 个提交。 （使用 &amp;ldquo;git push&amp;rdquo; 来发布您的本地提交） 无文件要提交，干净的工作区 KevindeMBP:public kevinfang$ git add . KevindeMBP:public kevinfang$ git commit -m “202212274th” 位于分支 main 您的分支领先 origin/main 共 1 个提交。 （使用 git push来发布您的本地提交）</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://usus.us/posts/hello-world/</link>
       <pubDate>Tue, 27 Dec 2022 02:10:03 +0800</pubDate>
       
       <guid>https://usus.us/posts/hello-world/</guid>
-      <description>折腾一天。有空写个小白攻略！</description>
+      <description>折腾一天。有空写个教程！</description>
     </item>
     
   </channel>

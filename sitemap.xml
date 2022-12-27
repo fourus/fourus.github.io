@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usus.us/categories/</loc>
-    <lastmod>2022-12-27T02:10:03+08:00</lastmod>
+    <lastmod>2022-12-27T17:25:03+08:00</lastmod>
+  </url><url>
+    <loc>https://usus.us/posts/deploy-hugo-blog/</loc>
+    <lastmod>2022-12-27T17:25:03+08:00</lastmod>
+  </url><url>
+    <loc>https://usus.us/posts/</loc>
+    <lastmod>2022-12-27T17:25:03+08:00</lastmod>
+  </url><url>
+    <loc>https://usus.us/categories/tech/</loc>
+    <lastmod>2022-12-27T17:25:03+08:00</lastmod>
+  </url><url>
+    <loc>https://usus.us/</loc>
+    <lastmod>2022-12-27T17:25:03+08:00</lastmod>
   </url><url>
     <loc>https://usus.us/posts/hello-world/</loc>
     <lastmod>2022-12-27T02:10:03+08:00</lastmod>
   </url><url>
     <loc>https://usus.us/categories/life/</loc>
-    <lastmod>2022-12-27T02:10:03+08:00</lastmod>
-  </url><url>
-    <loc>https://usus.us/posts/</loc>
-    <lastmod>2022-12-27T02:10:03+08:00</lastmod>
-  </url><url>
-    <loc>https://usus.us/</loc>
     <lastmod>2022-12-27T02:10:03+08:00</lastmod>
   </url><url>
     <loc>https://usus.us/2023/</loc>
